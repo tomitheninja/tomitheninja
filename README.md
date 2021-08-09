@@ -14,5 +14,5 @@ I code as a hobby and study CS at university
 
 <a href="http://discordapp.com/users/335860149749153802"><img align="left" alt="Discord" width="22px" src="assets/discord.svg" /></a>
 
-<a href="assets/coderstats.png"><img align="left" alt="Coder stats" width="22px" src="https://coderstats.net/github/#tomitheninja" /></a>
+<a href="https://coderstats.net/github/#tomitheninja"><img align="left" alt="Coder stats" width="22px" src="assets/coderstats.png" /></a>
 
