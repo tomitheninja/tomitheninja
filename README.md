@@ -6,7 +6,11 @@
 
 ♥️ Member and network administrator of the SZTE Móra Ferenc Szakkollégium.
 
-💚 Newbie at Simonyi Károly Szakkollégium 
+💚 Member of Simonyi Károly Szakkollégium.
+
+👾 `ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAbKCAyFZ3pPzXFxh+c3RnNZUtbJbBNGmVmePQ8FMDa1`
+
+<div>
 
 <a href="https://www.facebook.com/dr0p.database/"><img align="left" alt="Facebook" width="22px" src="assets/facebook.svg"></a>
 
@@ -23,3 +27,6 @@
 <a href="http://discordapp.com/users/335860149749153802"><img align="left" alt="Discord" width="22px" src="assets/discord.svg" /></a>
 
 <a href="https://coderstats.net/github/#tomitheninja"><img align="left" alt="Coder stats" width="22px" src="assets/coderstats.png" /></a>
+
+</div>
+
