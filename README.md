@@ -2,6 +2,8 @@
 
 ### Hi, I'm Tamás 👋
 
+💾 Download my [CV](https://github.com/tomitheninja/tomitheninja/raw/master/Sudi_Tamas_CV.pdf)
+
 🔬 I study computer science at the University of Szeged.
 
 ♥️ Member and network administrator of the SZTE Móra Ferenc Szakkollégium.
@@ -29,4 +31,3 @@
 <a href="https://coderstats.net/github/#tomitheninja"><img align="left" alt="Coder stats" width="22px" src="assets/coderstats.png" /></a>
 
 </div>
-
