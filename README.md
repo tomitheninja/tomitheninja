@@ -1,3 +1,5 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=tomitheninja&show_icons=true&icon_color=805AD5&text_color=BB86FC&bg_color=0d1117&hide_title=true" />
+
 ### Hi, I'm Tamás 👋
 
 💾 Download my [CV](https://github.com/tomitheninja/tomitheninja/raw/master/Sudi_Tamas_CV.pdf)
