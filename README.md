@@ -8,7 +8,7 @@
 
 🔬 I study computer science at the University of Szeged.
 
-   🧑‍🎓 I expect to graduate in January 2024 after a semester of Erasmus exchange.
+   🧑‍🎓 I expect to graduate in Jun 2024.
 
 ♥️ Member and network administrator of the [SZTE Móra Ferenc College for Advanced Studies](https://github.com/moraszk).
 
