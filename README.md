@@ -4,7 +4,7 @@
 
 💾 Download my [CV](https://github.com/tomitheninja/tomitheninja/raw/master/Sudi_Tamas_CV.pdf)
 
-🏠 I live in Eindhoven NL.
+🏠 I live in Szeged HU.
 
 🔬 I study computer science at the University of Szeged.
 
