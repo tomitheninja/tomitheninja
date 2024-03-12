@@ -12,7 +12,7 @@
 
 ♥️ Member and network administrator of the [SZTE Móra Ferenc College for Advanced Studies](https://github.com/moraszk).
 
-   🚀 [Space Software Enginner](https://u-szeged.hu/sztehirek/2022-november/kizarolag-szte-hallgatoi)
+   🚀 [Satellite Project](https://u-szeged.hu/sztehirek/2022-november/kizarolag-szte-hallgatoi)
 
 💚 Member of [Simonyi Károly College for Advanced Studies](https://simonyi.bme.hu/).
 
