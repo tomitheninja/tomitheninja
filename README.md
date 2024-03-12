@@ -20,16 +20,10 @@
 
 <div>
 
-<a href="https://www.facebook.com/dr0p.database/"><img align="left" alt="Facebook" width="22px" src="assets/facebook.svg"></a>
-
 <a href="https://linkedin.com/in/tomitheninja"><img align="left" alt="LinkedIn" width="22px" src="assets/linkedin.svg"></a>
 
-<a href="https://kir-dev.sch.bme.hu/member/tomitheninja">
-<img align="left" alt="Simonyi" width="22px" src="https://kir-dev.sch.bme.hu/favicon.png" />
-</a>
-
-<a href="https://open.spotify.com/user/t06m0g0z5ukih70fgy93er0d4?si=dbc3b25e207b42e2">
-  <img align="left" alt="Spotify" width="22px" src="assets/spotify.svg" />
+<a href="https://kir-dev.hu/about/members">
+<img align="left" alt="Simonyi" width="22px" src="https://kir-dev.hu/favicon/favicon-96x96.png" />
 </a>
 
 </div>
