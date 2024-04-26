@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=tomitheninja&show_icons=true&icon_color=805AD5&text_color=BB86FC&bg_color=0d1117&hide_title=true" />
 
-💾 Download my [CV](https://github.com/tomitheninja/tomitheninja/raw/master/Sudi_Tamas_CV.pdf)
+💾 Download my [CV](https://github.com/tomitheninja/tomitheninja/raw/master/SUDI_TAMAS_CV.pdf)
 
 🏠 I live in Szeged HU.
 
