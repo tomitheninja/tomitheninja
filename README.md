@@ -7,7 +7,7 @@
 👨‍💻 Software Developer at Cloudera
 
 #### Past Activities
-  
+
 🔬 Studied computer science at the University of Szeged.
 
 ♥️ Alumni and ex-network administrator of the [SZTE Móra Ferenc College for Advanced Studies](https://github.com/moraszk).
@@ -21,8 +21,6 @@
    🗂️ [Membership Managment System](https://github.com/kir-dev/pek-infinity)
 
 👾 `ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAbKCAyFZ3pPzXFxh+c3RnNZUtbJbBNGmVmePQ8FMDa1`
-
-
 
 <a href="https://linkedin.com/in/tomitheninja"><img align="left" alt="LinkedIn" width="22px" src="assets/linkedin.svg"></a>
 
